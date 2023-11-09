@@ -1,5 +1,5 @@
 # 💫 About Me:
-An aspiring data analyst who loves to work on ML and UX Design
+An aspiring cybersecurity analyst who loves to work on Backend Dev and UX Design
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nathamayil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
