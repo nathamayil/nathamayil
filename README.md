@@ -15,11 +15,11 @@
 
 - 💬 Ask me about **Web Dev, Data Visualization tools, Cloud Instances and Containerization**
 
-- 📫 How to reach me **nathamayil@gmail.com**
+- 📫 You can reach me through **nathamayil@gmail.com**
 
-- 📄 Know about my experiences [https://nathamayil.github.io/](https://nathamayil.github.io/)
+- 📄 Check out my portfolio - [https://nathamayil.github.io/](https://nathamayil.github.io/)
 
-- ⚡ Fun fact **I draw, play chess, read, learn new languages and bake when I am free :)**
+- ⚡ Fun fact - **I draw, play chess, read, learn new languages and bake when I am free :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
