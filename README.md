@@ -17,7 +17,7 @@
 
 - 📫 You can reach me through **nathamayil@gmail.com**
 
-- 📄 Check out my portfolio - [https://nathamayil.github.io/](https://nathamayil.github.io/)
+- 📄 Check out my portfolio - [https://nathamayilnatesh.netlify.app/](https://nathamayilnatesh.netlify.app/)
 
 - ⚡ Fun fact - **I draw, play chess, read, learn new languages and bake when I am free :)**
 
