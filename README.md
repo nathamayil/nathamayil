@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathamayil :)</h1>
 <h3 align="center">An aspiring developer who is into web dev, cybersecurity and data visualization</h3>
 
-- 👩🏾‍💻 I’m currently working at [Bank of America](https://olui2.fs.ml.com/)
+- 👩🏾‍💻 I’m currently work as a backend developer at [Bank of America](https://www.bankofamerica.com/smallbusiness/merchant-services/)
 
 - 🌱 I’m currently learning **penetration testing**
 
